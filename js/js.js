@@ -1,1 +1,1 @@
- document.
+document.readyState(()=>{alert(19)})
